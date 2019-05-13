@@ -5,6 +5,7 @@
     "keywords": ["boleto", "boleto bancario","jasper"],
     "homepage": "http://github.com/quilhasoft/jasperphp-openboleto",
     "license": "MIT",
+    "minimum-stability": "RC",
     "authors": [
         {
             "name": "Rogerio Muniz de Castro",
